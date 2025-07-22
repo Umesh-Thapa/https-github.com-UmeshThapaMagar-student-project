@@ -56,7 +56,7 @@ Navigate to the folder and double-click index.html to open it in your browser.
 
 🎬 5. Project Demo Video
 A short demo video of the project running is available here:
-🔗 https://youtu.be/dEQjfAdk5lk
+🔗 https://youtu.be/dEOjfAdk5lk 
 
 👉 Click below to watch:
 📺 Watch the Demo on YouTube
