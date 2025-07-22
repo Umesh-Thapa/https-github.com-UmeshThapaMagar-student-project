@@ -14,8 +14,7 @@ This repository contains my coursework project for the Front-End Module at LUT U
 ## 📔 2. Learning Diary
 
 My personal **Learning Diary** is included as a separate file:  
-📄 [`learning_diary.md`]([./learning_diary.md](https://github.com/Umesh-Thapa/https-github.com-UmeshThapaMagar-student-project/blob/main/SDS_learning_diary_template%20(1).docx))
-
+📄 [`learning_diary.md`](./learning_diary.md)
 The diary documents what I learned, when I learned it, and what activities I completed throughout the course.
 
 ---
