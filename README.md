@@ -47,7 +47,18 @@ A modern web browser like Chrome or Firefox.
    ```bash
    git clone https://github.com/Umesh-Thapa/UmeshThapaMagar-student-project.git
 
-🎥 5. Project Demo Video
-A short video demonstration of the project running is available here: https://youtu.be/dEOjfAdk5lk 
+Open the project folder
+Navigate to the folder and double-click index.html to open it in your browser.
 
-👉 Watch the Demo on YouTube
+✅ No installation or server is required — just a browser!
+
+
+
+🎬 5. Project Demo Video
+A short demo video of the project running is available here:
+🔗 https://youtu.be/dEQjfAdk5lk
+
+👉 Click below to watch:
+📺 Watch the Demo on YouTube
+
+Note: The video shows the layout, responsiveness, and features. No sound is included, as it's optional per course guidelines. The video was recorded using OBS Studio.
