@@ -25,7 +25,7 @@ The diary documents what I learned, when I learned it, and what activities I com
 This is a **responsive front-end website** built using core web development technologies. It showcases a variety of layout and interactivity features.
 
 ### 🔗 Live Project Link  
-👉 [Live Website on GitHub Pages](https://umeshthapamagar.github.io/UmeshThapaMagar-student-project/)
+👉 [Live Website on GitHub Pages]( https://umesh-thapa.github.io/https-github.com-UmeshThapaMagar-student-project/)
 
 ### 🧩 Features
 - Responsive layout using **Flexbox** and **CSS Grid**
@@ -37,6 +37,7 @@ This is a **responsive front-end website** built using core web development tech
 ---
 
 ## 🧑‍🏫 4. How to Run This Project Locally
+https://github.com/Umesh-Thapa/https-github.com-UmeshThapaMagar-student-project/tree/main 
 
 ### ✅ Requirements
 A modern web browser like Chrome or Firefox.
