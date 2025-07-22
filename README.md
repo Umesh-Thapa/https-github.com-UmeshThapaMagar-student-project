@@ -37,6 +37,7 @@ This is a **responsive front-end website** built using core web development tech
 ---
 
 ## 🧑‍🏫 4. How to Run This Project Locally
+
 https://github.com/Umesh-Thapa/https-github.com-UmeshThapaMagar-student-project/tree/main 
 
 ### ✅ Requirements
@@ -46,3 +47,8 @@ A modern web browser like Chrome or Firefox.
 1. Clone the repository  
    ```bash
    git clone https://github.com/Umesh-Thapa/UmeshThapaMagar-student-project.git
+
+🎥 5. Project Demo Video
+A short video demonstration of the project running is available here: https://youtu.be/dEOjfAdk5lk 
+
+👉 Watch the Demo on YouTube
