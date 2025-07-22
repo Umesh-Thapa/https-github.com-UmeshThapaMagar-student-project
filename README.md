@@ -14,7 +14,7 @@ This repository contains my coursework project for the Front-End Module at LUT U
 ## 📔 2. Learning Diary
 
 My personal **Learning Diary** is included as a separate file:  
-📄 [`learning_diary.md`](./learning_diary.md)
+📄 [`learning_diary.md`]learning-dairy.md
 The diary documents what I learned, when I learned it, and what activities I completed throughout the course.
 
 ---
